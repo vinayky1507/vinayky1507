@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
-[![twitter](https://img.shields.io/twitter/follow/wakatime?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/vinayjkit)
-[![github](https://img.shields.io/github/followers/alanhamlett?logo=github&style=plastic)](https://github.com/vinayky1507t?tab=followers)
+[![wakatime](https://wakatime.com/badge/user/0b03cf2c-442d-4f14-aab0-008b7933e5ce.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
+[![twitter](https://img.shields.io/twitter/follow/vinayjkit?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/vinayjkit)
+[![github](https://img.shields.io/github/followers/vinayky1507?logo=github&style=plastic)](https://github.com/vinayky1507t?tab=followers)
 
 <!--START_SECTION:waka-->
 
