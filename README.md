@@ -1,9 +1,9 @@
 ### Hi there 👋
  
 ![wakatime](https://wakatime.com/badge/user/0b03cf2c-442d-4f14-aab0-008b7933e5ce.svg)
-[![twitter](https://img.shields.io/twitter/follow/vinayjkit?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/vinayjkit)
-[![github](https://img.shields.io/github/followers/vinayky1507?logo=github&style=plastic)](https://github.com/vinayky1507)
-https://img.shields.io/badge/Code%20Time-1%2C937%20hrs%203%20mins-blue
+![](https://img.shields.io/twitter/follow/vinayjkit.svg?style=social)
+
+![](https://img.shields.io/badge/Code%20Time-1%2C937%20hrs%203%20mins-blue)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
