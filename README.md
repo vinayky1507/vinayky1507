@@ -5,19 +5,19 @@
 
 ![](https://img.shields.io/badge/Code%20Time-1%2C937%20hrs%203%20mins-blue)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-242-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-292-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 40 Contributions in the Year 2022
+> 🏆 47 Contributions in the Year 2022
  > 
 > 📦 28.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 11 Public Repositories 
  > 
 > 🔑 7 Private Repositories  
  > 
@@ -38,7 +38,7 @@ C                        1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/vinayky1507/vinayky1507/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/09/2022 17:15:53 UTC
+ Last Updated on 29/09/2022 18:53:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
