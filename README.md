@@ -12,7 +12,7 @@
 - 💬 Ask me about ``` var topics = [  "Python", "ML","4G/5G RAN" ] ```
 
 - 📫 How to reach me **vinayjkit@gmail.com**
-- 
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2041%20mins-blue)
 
