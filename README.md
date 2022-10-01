@@ -1,8 +1,5 @@
 ### Hi there 👋
  
-![wakatime](https://wakatime.com/badge/user/0b03cf2c-442d-4f14-aab0-008b7933e5ce.svg)
-![](https://img.shields.io/twitter/follow/vinayjkit.svg?style=social)
-
 ![](https://img.shields.io/badge/Code%20Time-1%2C937%20hrs%203%20mins-blue)
 
 - 👨‍💻 All about me is at [My Website](https://vinayky1507.github.io/)
