@@ -1,12 +1,16 @@
 ### Hi there 👋
 
-i am a data science enthusiast and trying to find out data insights with state of art alogorithams and with my domain expertize in telecom(4G/5G RAN).
+i am a data science enthusiast and trying to find out data insights with state of art algorithms and with my domain expertise in telecom(4G/5G RAN).
  
+- 🔭 I’m currently working on multiple ML based project of Telecom Domain.
+-
 - 👨‍💻 All about me is at [My Website](https://vinayky1507.github.io/)
 
 - 📝 Sometimes I write articles also
 
 - 💬 Ask me about ``` var topics = [  "Python", "ML","4G/5G RAN" ] ```
+-
+- 🌱 I’m currently learning OPEN RAN/Kubernetes.
 
 - 📫 How to reach me **vinayjkit@gmail.com**
 
