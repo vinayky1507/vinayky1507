@@ -5,7 +5,7 @@
 
 ![](https://img.shields.io/badge/Code%20Time-1%2C937%20hrs%203%20mins-blue)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-304-blue)
 
@@ -13,7 +13,7 @@
 
 > 🏆 47 Contributions in the Year 2022
  > 
-> 📦 29.6 kB Used in GitHub's Storage 
+> 📦 29.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,16 +50,19 @@ Sunday       7 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     18 mins             █████████████████████████   100.0%
+HTML                     2 hrs 27 mins       ██████████████████████░░░   91.44% 
+Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.0% 
+CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.11% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.0%
+VS Code                  2 hrs 41 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-eviryav                  18 mins             █████████████████████████   100.0%
+eviryav                  2 hrs 41 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.0%
+Windows                  2 hrs 41 mins       █████████████████████████   100.0%
 
 ```
 
@@ -80,7 +83,7 @@ C                        1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/vinayky1507/vinayky1507/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/09/2022 18:53:21 UTC
+ Last Updated on 01/10/2022 05:02:14 UTC
 <!--END_SECTION:waka-->
 
 <!--
