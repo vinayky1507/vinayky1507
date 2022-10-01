@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-i am a data science enthusiast and trying to find out data insights with state of art algorithms and with my domain expertise in telecom(4G/5G RAN).
+i am a data science enthusiast and my job is to develop AI/ML based automation.
  
-- 🔭 I’m currently working on multiple ML based project of Telecom Domain.
+- 🔭 I’m currently working on multiple AI/ML based project of Telecom Domain.
 
 - 👨‍💻 All about me is at [My Website](https://vinayky1507.github.io/)
 
