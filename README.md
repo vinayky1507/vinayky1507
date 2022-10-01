@@ -4,6 +4,15 @@
 ![](https://img.shields.io/twitter/follow/vinayjkit.svg?style=social)
 
 ![](https://img.shields.io/badge/Code%20Time-1%2C937%20hrs%203%20mins-blue)
+
+- 👨‍💻 All about me is at [My Website](https://vinayky1507.github.io/)
+
+- 📝 Sometimes I write articles also
+
+- 💬 Ask me about ``` var topics = [  "Python", "ML","4G/5G RAN" ] ```
+
+- 📫 How to reach me **vinayjkit@gmail.com**
+- 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2041%20mins-blue)
 
