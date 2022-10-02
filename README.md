@@ -17,7 +17,7 @@ i am a data science enthusiast and my job is to develop AI/ML based automation.
 ### What are my featured projects:question::rocket:
 <code>[E2E Automation for Live KPI monitoring]</code>:hourglass:     
 <code>[ML Based Data Traffic Forecasting]</code>:mask:  
-<code>[ML based TR routing]</code>:robot:   
+<code>[ML based RAN Trouble Report routing]</code>:robot:   
 <code>[Customer Churn Prediction]</code>:hourglass:    
 <code>[AI RAN Chat Bot]</code>:hourglass:    
 <code>[Insurance Fraud Detection]</code>:hourglass:   
