@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-i am a data science enthusiast and my job is to develop AI/ML based automation.
+i am a Python/AI/ML/ enthusiast and my job is to use my telecom expertize to develop Python/AI/ML based automation to improve the RAN optimization/Design and Solution work.
  
-- 🔭 I’m currently working on multiple AI/ML based project of Telecom Domain.
+- 🔭 I’m currently working on multiple Python/AI/ML based use cases of Telecom Domain.
 
 - 👨‍💻 All about me is at [My Website](https://vinayky1507.github.io/)
 
