@@ -24,7 +24,7 @@ i am a Python/AI/ML/ enthusiast and my job is to use my telecom expertize to dev
 <code>[Wafer Fault Detection]</code>:hourglass:   
 
 **My Articles/Blog**
-- [K-Mean Clustering](https://medium.com/@vinayjkit/k-mean-clustering-51c9912402d8)
+- [Unsupervised learning with K-Mean Clustering](https://medium.com/@vinayjkit/k-mean-clustering-51c9912402d8)
 
 - [Statistics for Machine Learning](https://medium.com/@vinayjkit/statistics-for-machine-learning-ffecc0f8ed48)
 
